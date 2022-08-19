@@ -1,1 +1,1 @@
-funny repo
+my first commit
